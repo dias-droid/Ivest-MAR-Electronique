@@ -1,0 +1,16 @@
+﻿Équipement obsolète,Statut,Remplacement
+Siemens SIMATIC S5,"Obsolète, plus distribué",S7-1500 / ET 200SP
+Siemens S7-200,Arrêté,S7-1200
+Siemens S7-300,Fin de production annoncée (oct. 2023),S7-1500
+Siemens S7-400,Partiellement obsolète,S7-1500 / S7-1500H
+"Allen-Bradley PLC-5 (1771 I/O, DH+, RIO)",Arrêté depuis juin 2017,ControlLogix 5580
+Allen-Bradley SLC 500 (1746/1747),Arrêté (derniers CPU fin mars 2024),CompactLogix
+Allen-Bradley MicroLogix 1000/1200/1500,Obsolètes,Micro800 / CompactLogix
+Rockwell ControlLogix 5550/5560/5570,Fin de vie,ControlLogix 5580
+Schneider Telemecanique TSX 7 / Premium,Arrêtés,M580
+Schneider Modicon Quantum,Fin 2022–2023,M580
+Schneider Modicon M340,Maintenu mais migration M580 encouragée,M580
+"Omron C200H / C200HS/HG/HX, CQM1, CQM1H, CPM2C",Discontinués depuis >20 ans (CQM1 arrêté en 2012),CJ2 / NJ
+Omron CS1,Dernières commandes clôturées fin mars 2025,CJ2 / NX
+Mitsubishi FX1S / FX1N / FX2N,Arrêtés (2018),FX5U
+"Mitsubishi FX3U / FX3G, Q-series",Fin de vie / remplacement progressif,FX5U / iQ-R

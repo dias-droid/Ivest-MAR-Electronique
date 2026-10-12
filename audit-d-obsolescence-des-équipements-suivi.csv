@@ -1,0 +1,9 @@
+ID,Équipement,Marque / Référence,Localisation,Année MES,Statut fabricant,Disponibilité pièces,Criticité (1-5),Stock tampon,Action recommandée,Échéance,Responsable,Statut
+EX-001,Automate,Siemens S7-315-2AG10,Ligne conditionnement A,2008,Fin de production (oct. 2023),Faible — marché gris uniquement,5,1 CPU + 2 cartes E/S,Migration S7-1500 (budget T1 2027),2027-Q1,M. Alami,En cours
+EX-002,Variateur,"Micromaster 440 7,5 kW",Pompe alimentaire chaudière,2010,Obsolète (remplacé par SINAMICS G120),Moyenne — refurbished dispo,4,0,Achat 1 variateur G120 + plaque adaptation,2026-Q4,Équipe maintenance,À lancer
+EX-003,IHM,Magelis XBT-GT2330,Atelier filage,2011,Obsolète,Faible,3,1 unité reconditionnée,Réparer / remplacer par Harmony,2027-Q2,S. Bennani,Planifié
+—,—,—,—,—,—,—,—,—,—,—,—,À compléter
+—,—,—,—,—,—,—,—,—,—,—,—,À compléter
+—,—,—,—,—,—,—,—,—,—,—,—,À compléter
+—,—,—,—,—,—,—,—,—,—,—,—,À compléter
+—,—,—,—,—,—,—,—,—,—,—,—,À compléter
